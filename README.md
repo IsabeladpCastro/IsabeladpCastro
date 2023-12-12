@@ -5,9 +5,9 @@
 </div>
 
 ### 👩‍💻 About Me :
-- 📚 Sou estudade de Bacharelado em Ciência da Computação, na Universidade Federal de São Carlos
+- 📚 Sou estudante de Bacharelado em Ciência da Computação, na Universidade Federal de São Carlos
 - 🎓 Sou tecnica em Desenvolvimento de Sistemas
-- ☕ Apaixonda por café e codigos
+- ☕ Apaixonada por café e codigos
 
 
 ## 📖 Estou aprendendo
